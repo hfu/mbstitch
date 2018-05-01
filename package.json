@@ -1,0 +1,23 @@
+{
+  "name": "mbstitch",
+  "version": "1.0.0",
+  "description": "stitching mbtiles produced in a modular manner",
+  "main": "mbstitch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/mbstitch.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/mbstitch/issues"
+  },
+  "homepage": "https://github.com/hfu/mbstitch#readme",
+  "dependencies": {
+    "@mapbox/tilebelt": "^1.0.1",
+    "sqlite3": "^4.0.0"
+  }
+}
