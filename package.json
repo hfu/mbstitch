@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hfu/mbstitch#readme",
   "dependencies": {
+    "@mapbox/mbtiles": "^0.9.0",
     "@mapbox/tilebelt": "^1.0.1",
     "sqlite3": "^4.0.0"
   }
